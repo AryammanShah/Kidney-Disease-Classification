@@ -1,0 +1,21 @@
+tensorflow==2.13.0
+pandas 
+dvc
+mlflow==2.2.2
+notebook
+numpy
+matplotlib
+seaborn
+pydantic==1.10.13
+python-box==6.1.0
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+gdown
+-e .
+#conda create -n kidney310 python=3.10,conda activate kidney310,pip install -r requirements.txt
